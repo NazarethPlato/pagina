@@ -1,0 +1,14 @@
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  color: white;
+  font-family: Algerian;
+}
+
+h2 {
+  color: lime;
+  font-family: Helvetica;
+  font-size: 120px;
+}
